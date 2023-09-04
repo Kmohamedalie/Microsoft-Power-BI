@@ -2,7 +2,7 @@
 # CFI - BIDA Power BI Fundamental Training 
 
 <!-- Link to my Tableau Link--> 
-**Final Case study Dashboard:** [Power BI Dashboard]()
+**Follow this link to interact with the Dashboard:** [Power BI Dashboard](https://kmohamedalie.github.io/Microsoft-Power-BI/)
 
 
  -  Data transformation
