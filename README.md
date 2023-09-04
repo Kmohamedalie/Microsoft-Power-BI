@@ -7,6 +7,8 @@
 
  -  Data transformation
  -  Data cleaning
- -  DAX
- -  Data visualization and
+ -  Data Modeling
+ -  DAX Measures
+ -  Data visualization 
+ -  Sharing Reports
  -  Dashboarding
