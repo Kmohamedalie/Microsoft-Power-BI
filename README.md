@@ -10,7 +10,7 @@
  -  Data Modeling
  -  DAX Measures
  -  Data visualization 
- -  Sharing Reports
+ -  Sharing Reports 
  -  Dashboarding
 
 ### Screenshots from the dashobard
