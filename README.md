@@ -13,7 +13,7 @@
  -  Sharing Reports 
  -  Dashboarding
 
-### Screenshots from the dashobard
+### Screenshots from the dashobard 
 
 ![image](https://github.com/Kmohamedalie/Microsoft-Power-BI/assets/63104472/540cfa72-f5a0-43e9-9301-5822eaf3a2ca)
 
