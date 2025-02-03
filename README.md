@@ -5,13 +5,15 @@
 **Follow this link to interact with the Dashboard:** [Power BI Dashboard](https://kmohamedalie.github.io/Microsoft-Power-BI/)
 
 
- -  Data transformation
+
  -  Data cleaning
+ -  Data transformation
  -  Data Modeling
  -  DAX Measures
- -  Data visualization 
- -  Sharing Reports 
+ -  Data visualization
  -  Dashboarding
+ -  Sharing Reports 
+
 
 ### Demo
 https://github.com/user-attachments/assets/3919ce15-3e59-4234-aa01-e42f7ca0451e
