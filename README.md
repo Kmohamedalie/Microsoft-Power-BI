@@ -2,7 +2,7 @@
 # CFI - BIDA Power BI Fundamentals Training   
 
 <!-- Link to my Tableau Link--> 
-**Follow this link to interact with the Dashboard:** [Power BI Dashboard](https://kmohamedalie.github.io/Microsoft-Power-BI/)
+**Link available only for Bologna Students:** [Power BI Dashboard](https://kmohamedalie.github.io/Microsoft-Power-BI/)
 
 
 
